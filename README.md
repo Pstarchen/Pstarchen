@@ -27,3 +27,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
+
+![](https://raw.githubusercontent.com/Pstarchen/Pstarchen/main/assets/github-contribution-grid-snake.svg)
