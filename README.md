@@ -25,7 +25,8 @@
     <a href="https://space.bilibili.com/353836551"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <div>&nbsp;</div>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
 </div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/Pstarchen/Pstarchen/output/github-contribution-grid-snake.svg" /></div>
+  <!-- 贪吃蛇 -->
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/Pstarchen/Pstarchen/output/github-contribution-grid-snake.svg" />
+    </div>
