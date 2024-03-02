@@ -28,4 +28,4 @@
 
 </div>
 
-![](https://raw.githubusercontent.com/Pstarchen/Pstarchen/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Pstarchen/Pstarchen/assets/github-contribution-grid-snake.svg" /></div>
