@@ -23,8 +23,9 @@
     <a href="https://blog.starchen.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://starchen.top/guanzhu.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/353836551"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  </div></br>
-
+  <div>&nbsp;</div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div></br>
     <!-- 贪吃蛇 -->
     <div align="center">
     <img src="https://raw.githubusercontent.com/Pstarchen/Pstarchen/output/github-contribution-grid-snake.svg" />
