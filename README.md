@@ -9,11 +9,7 @@
   </h1>
   
   <!-- 个人图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://starchen.top/picture/storage/app/uploads/2024/02/19/65d2e6f64d111.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="http://starchen.top/picture/storage/app/uploads/2024/02/19/65d2e6f64d111.jpg" height="225px" />
-    <img src="http://starchen.top/picture/storage/app/uploads/2024/02/19/65d2e6f64d111.jpg" />
-  </picture>
+  
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
