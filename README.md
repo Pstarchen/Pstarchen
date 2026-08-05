@@ -31,5 +31,5 @@
   </div>
 
   <!-- 统计卡片 --!>
-  <div align="center"> <img height="137px" src="https://github-stats-hazel-beta.vercel.app/api?username=Pstarchen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+  <div align="center"> <img height="137px" src="https://github-stats-hazel-beta.vercel.app/api?username=Pstarchen&locale=cn&hide_border=true&disable_animations=false&border_radius=8&cache_seconds=21600&show=reviews&theme=default&title_color=7C3AED&icon_color=7C3AED&ring_color=7C3AED&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&show_icons=true&include_all_commits=true&number_format=short&hide_rank=false&rank_icon=github" /> </div>
   
